@@ -1,0 +1,1 @@
+The user may create a class with a main method to test. This method can create LocalMachine instances. One can create Files and save them on LocalMachine, which will automatically save them to the database. Each LocalMachine has an LRU cache, from which one retrieves files.
